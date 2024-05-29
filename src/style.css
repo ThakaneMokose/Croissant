@@ -1,0 +1,19 @@
+body{
+    background-color: #F8E8A6;
+}
+h1{
+    text-align: center;
+}
+.links{
+    text-align: center;
+}
+.links a{
+    margin: 10px;
+    color: green;
+}
+.croissant {
+    max-width: 900px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
